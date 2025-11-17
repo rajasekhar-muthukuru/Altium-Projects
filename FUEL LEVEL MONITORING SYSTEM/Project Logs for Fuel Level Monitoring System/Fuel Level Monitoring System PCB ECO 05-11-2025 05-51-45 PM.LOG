@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=P2 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P1 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=P3 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=D1 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D2 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D3 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D4 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D5 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D11 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D12 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D13 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D14 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D15 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Added Pin To Net: NetName=NetC1_1 Pin=P3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R10-2
+Added Pin To Net: NetName=NetC1_1 Pin=R16-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=VCC
+Added Member To Class: ClassName=Fuel Level Monitoring System Member=Component R17 CRGCQ0805J470R
+Added Room: Name=Fuel Level Monitoring System
