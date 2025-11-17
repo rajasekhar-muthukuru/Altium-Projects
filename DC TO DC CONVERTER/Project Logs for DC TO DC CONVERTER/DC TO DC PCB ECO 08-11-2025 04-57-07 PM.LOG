@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=J1 Old Footprint=691254410002 New Footprint=691254410002
-Change Component Footprint: Designator=C1 Old Footprint=WCAP-ATET_D13H25 New Footprint=WCAP-ATET_D13H25
-Change Component Footprint: Designator=C2 Old Footprint=WCAP-ATET_D13H25 New Footprint=WCAP-ATET_D13H25
-Change Component Footprint: Designator=C3 Old Footprint=WCAP-ATLL_D8H11.5 New Footprint=WCAP-ATLL_D8H11.5
-Added Class: Name=GND
-Added Room: Name=DC TO DC
